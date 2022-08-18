@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brae", "Brae\Brae.csproj", "{0DCBA22E-F2F3-43F3-814D-85DA013EF2BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Tests", "Unit Tests\Unit Tests.csproj", "{0F737138-E52D-4FC9-8B48-565A1C23499D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCBA22E-F2F3-43F3-814D-85DA013EF2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCBA22E-F2F3-43F3-814D-85DA013EF2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCBA22E-F2F3-43F3-814D-85DA013EF2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCBA22E-F2F3-43F3-814D-85DA013EF2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F737138-E52D-4FC9-8B48-565A1C23499D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F737138-E52D-4FC9-8B48-565A1C23499D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F737138-E52D-4FC9-8B48-565A1C23499D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F737138-E52D-4FC9-8B48-565A1C23499D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF1EBBD-B3F1-4AE3-B0E9-2A2B5348FA23}
+	EndGlobalSection
+EndGlobal

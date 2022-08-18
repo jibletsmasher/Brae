@@ -1,0 +1,17 @@
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Unit Tests.dll
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Unit Tests.pdb
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Brae.exe
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Brae.pdb
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Brae.exe.config
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Paul\source\repos\Brae\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Paul\source\repos\Brae\Unit Tests\obj\Debug\Unit Tests.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Brae\Unit Tests\obj\Debug\Unit Tests.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Brae\Unit Tests\obj\Debug\Unit Tests.csproj.CopyComplete
+C:\Users\Paul\source\repos\Brae\Unit Tests\obj\Debug\Unit Tests.dll
+C:\Users\Paul\source\repos\Brae\Unit Tests\obj\Debug\Unit Tests.pdb

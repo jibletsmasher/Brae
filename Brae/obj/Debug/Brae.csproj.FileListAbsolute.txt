@@ -1,0 +1,12 @@
+C:\Users\Paul\source\repos\Brae\Brae\bin\Debug\Brae.exe.config
+C:\Users\Paul\source\repos\Brae\Brae\bin\Debug\Brae.exe
+C:\Users\Paul\source\repos\Brae\Brae\bin\Debug\Brae.pdb
+C:\Users\Paul\source\repos\Brae\Brae\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paul\source\repos\Brae\Brae\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Paul\source\repos\Brae\Brae\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paul\source\repos\Brae\Brae\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Paul\source\repos\Brae\Brae\obj\Debug\Brae.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Brae\Brae\obj\Debug\Brae.csproj.CopyComplete
+C:\Users\Paul\source\repos\Brae\Brae\obj\Debug\Brae.exe
+C:\Users\Paul\source\repos\Brae\Brae\obj\Debug\Brae.pdb
+C:\Users\Paul\source\repos\Brae\Brae\obj\Debug\Brae.csprojAssemblyReference.cache

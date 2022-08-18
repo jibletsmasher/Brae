@@ -1,0 +1,18 @@
+a. as of 1/15 there were 61.78M shares shorted out of a total 46.89 shares available to short
+
+b. according to S3 estimates, shorties didn't start covering until about 1/28
+
+c. total volume of gme since 1/28: 58.82 + 50.26 + 37.38 + 78.18 + 42.7 + 59.75 = 327.09
+
+d. weighted average of gme price (upon close) since 1/28 (the weight is the price's respective volume as a percentage of the total volume since 1/28):
+193.6*0.1798 + 325*0.1537 + 225*0.1143 + 90*0.239 + 92.41*0.1305 + 53.5*0.1827 = 131.9987
+
+e. assuming shorties played a game of numbers and DCA'ed, $131.9987 should be their estimated average cost per share
+
+f. current estimated short interest is 39% (18.2871M shares), so the amount of covered short shares would be: 61.78 - 18.2871 = 43.4929
+
+g. estimated total cost to cover (d * e): 131.9987*43.7929 ~ $5.7806B; we know this estimate is lower than what it really is because in our calculations we assume that only shorts are covering and no new shorts are being opened between 1/15 and now, however, in S3's estimates, short interest is accumulated after it's first decent from the range of 126% - 131%, therefore more shorts must have been covered and new shorts opened
+
+h. estimated amount spent on gme since 1/28 (d * h): 131.7428*327.09 ~ $43.0918B
+
+i. given that $43.0918B was spent and only $5.7806B was spent on covering shorts, it is possible that shorts have covered the amount reported by S3
